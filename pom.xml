@@ -184,6 +184,11 @@
             <artifactId>h2</artifactId>
             <version>${h2.version}</version>
         </dependency>
+        <dependency>
+            <groupId>io.mosip.kernel</groupId>
+            <artifactId>kernel-cbeffutil-api</artifactId>
+            <version>1.1.5</version>
+        </dependency>
 
         <dependency>
             <groupId>org.slf4j</groupId>
